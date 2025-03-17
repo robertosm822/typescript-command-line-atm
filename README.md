@@ -37,3 +37,21 @@
 [x] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
 [x] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+
+## Resultado na linha de comando
+
+```bash
+
+Você depositou R$ 100. Saldo atual: R$ 100
+Você sacou R$ 50. Saldo atual: R$ 50
+------------------
+Você depositou R$ 200. Saldo atual: R$ 200
+Você depositou R$ 500. Saldo atual: R$ 700
+Empréstimo de R$ 500 realizado com sucesso!
+Você sacou R$ 300. Saldo atual: R$ 400
+------------------
+Você depositou R$ 110. Saldo atual: R$ 110
+Depósito com bônus de R$ 10 aplicado.
+Você sacou R$ 50. Saldo atual: R$ 60
+
+```
